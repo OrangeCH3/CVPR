@@ -1,4 +1,4 @@
-# CVPR-Demo
+# CVPR
 
 CVPR-Demo
 
